@@ -1,0 +1,4 @@
+prostředek esp
+levo piny levá strana
+pravo pravé serva
+uprostřed napájení + čipy
