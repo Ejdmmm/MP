@@ -1,0 +1,4 @@
+U DRIVERŮ PŘIPOJIT 5V A GND KE ZDROJI!
+U ESP ZJISTIT, PROČ CHYBA - OBA DRIVERY MAJÍ SDA0 A SCL0
+Propojit zbytek jako jumpery, ESP, GND A 5V napájet na všechno
++ piny 19* se zobrazují jako 3*, proč? 
