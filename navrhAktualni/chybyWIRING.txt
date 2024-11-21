@@ -1,0 +1,8 @@
+
+U ESP ZJISTIT, PROČ CHYBA - OBA DRIVERY MAJÍ SDA0 A SCL0 - check!
++ piny 19* a 11* se zobrazují jako 3*, proč? = předělat footprinty u pinů 11 A 19 - check!
+předělat piny 03 propojit a připojit k sobě - check!
+ELIMINOVAT VŠECHNY zbytečně DLOUHÉ DRÁTY, chceck!
+Propojit zbytek jako jumpery, ESP, GND A 5V napájet na všechno
+CO JE MOŽNÉ, TAK ZMENŠIT!
+Otázky: Kam dát u jumperů GND a 5V, to samé u pinů 3*, kam to dát, aby to nevadilo?
